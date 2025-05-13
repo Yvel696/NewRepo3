@@ -1,6 +1,6 @@
-# 🦈 SharkySniffer: Python Packet Sniffer with GUI and Anomaly Detection
+# 🦈 SharkyShark: Python Packet Sniffer with GUI and Anomaly Detection
 
-**SharkySniffer** is a lightweight Python-based packet sniffer inspired by Wireshark. It provides real-time packet capture, a GUI interface for live viewing, and basic anomaly detection to help identify suspicious network activity.
+**SharkyShark** is a lightweight Python-based packet sniffer inspired by Wireshark. It provides real-time packet capture, a GUI interface for live viewing, and basic anomaly detection to help identify suspicious network activity.
 
 ## 🚀 Features
 
